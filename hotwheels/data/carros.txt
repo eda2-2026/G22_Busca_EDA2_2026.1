@@ -1,7 +1,7 @@
-HW006;Ferrari F40;3
-HW005;Lamborghini Aventador;6
-HW007;Porsche 911 GT3;4
-HW010;Mazda RX7;29
+HW006;Ferrari F40;4
+HW005;Lamborghini Aventador;7
+HW007;Porsche 911 GT3;5
+HW010;Mazda RX7;32
 HW022;Honda NSX;1
 HW001;Skyline R34 NOVO;0
 HW002;Supra MK4;0
@@ -22,5 +22,5 @@ HW020;Subaru Impreza WRX;0
 HW021;Chevrolet Corvette;0
 HW023;Toyota Supra A80;0
 HW024;Nissan 240SX;0
-HW025;Mazda CX-5;24
+HW025;Mazda CX-5;27
 HW500;Carro Editado;0
