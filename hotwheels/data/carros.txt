@@ -1,0 +1,26 @@
+HW006;Ferrari F40;1
+HW005;Lamborghini Aventador;4
+HW007;Porsche 911 GT3;2
+HW001;Skyline R34 NOVO;0
+HW002;Supra MK4;0
+HW003;Camaro SS;0
+HW004;Mustang Boss 429;3
+HW008;Nissan GTR R35;3
+HW009;Dodge Charger 1970;0
+HW010;Mazda RX7;20
+HW011;Bugatti Chiron;0
+HW012;McLaren P1;0
+HW013;Koenigsegg Jesko;0
+HW014;Audi R8;0
+HW015;BMW M3 E46;0
+HW016;Tesla Model S;0
+HW017;Ford GT;0
+HW018;Corvette C8;0
+HW019;Pagani Huayra;0
+HW020;Subaru Impreza WRX;0
+HW021;Chevrolet Corvette;0
+HW022;Honda NSX;0
+HW023;Toyota Supra A80;0
+HW024;Nissan 240SX;0
+HW025;Mazda CX-5;15
+HW500;Carro Editado;0
