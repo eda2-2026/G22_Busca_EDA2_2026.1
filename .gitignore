@@ -1,0 +1,104 @@
+# Arquivos e pastas a ignorar no repositório
+
+# ----------------------
+# Build / binários
+# ----------------------
+# Objetos e arquivos de compilacao
+*.o
+*.obj
+*.out
+*.gch
+
+# Bibliotecas estáticas/dinâmicas e executáveis
+*.a
+*.so
+*.dll
+*.dylib
+*.exe
+
+# Artefatos do projeto (executáveis gerados pelos scripts)
+/hotwheels/src/programa
+/hotwheels/tests/testes
+
+# Arquivos de dependencias/dirs de build
+/build/
+/bin/
+/dist/
+
+# Arquivos de dependencias do compilador
+*.d
+
+# ----------------------
+# Testes / coverage
+# ----------------------
+coverage/
+*.gcda
+*.gcno
+*.gcov
+test-results/
+
+# ----------------------
+# Scripts e logs
+# ----------------------
+*.log
+*.pid
+*.seed
+*.stackdump
+
+# ----------------------
+# Editor / IDE
+# ----------------------
+.vscode/
+.idea/
+*.iml
+
+# Vim / Emacs
+*~
+.*.swp
+*.swo
+.#*
+.#*/
+
+# ----------------------
+# Sistema / metadados
+# ----------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ----------------------
+# Ferramentas de indexacao / tags
+# ----------------------
+tags
+cscope.out
+ctags
+
+# ----------------------
+# Linguagens / caches
+# ----------------------
+node_modules/
+__pycache__/
+*.pyc
+
+# ----------------------
+# Arquivos locais/CI/segredos
+# ----------------------
+.env
+.local
+env/
+.secrets
+core
+
+# ----------------------
+# Específicos do projeto (adicionais)
+# ----------------------
+# Binarios temporarios e artefatos gerados durante testes locais
+/hotwheels/src/*.o
+/hotwheels/tests/*.o
+/hotwheels/src/*.d
+/hotwheels/tests/*.d
+
+# Arquivos gerados por ferramentas de profiling
+*.prof
+*.pprof
+
