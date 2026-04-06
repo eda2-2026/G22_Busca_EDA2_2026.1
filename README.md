@@ -16,9 +16,21 @@ Sistema desenvolvido em **C** para gerenciamento e busca em uma coleção de car
 
 ## Screenshots
 
-* Tela inicial do programa
-* Resultado de uma busca por nome
-* Exibição completa da coleção
+Tela inicial do programa
+
+![Tela inicial](/hotwheels/assets/inicial.png)
+
+Resultado de uma busca por nome
+
+![mtf](/hotwheels/assets/mtf.png)
+
+Resultado de uma busca por código
+
+![hash](/hotwheels/assets/hash.png)
+
+Exibição completa da coleção
+
+![colecao](/hotwheels/assets/colecao.png)
 
 ## Instalação
 
