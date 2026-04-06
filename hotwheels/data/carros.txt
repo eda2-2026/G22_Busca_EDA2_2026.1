@@ -1,3 +1,5 @@
+HW003;Camaro SS;1
+HW014;Audi R8;1
 HW006;Ferrari F40;4
 HW005;Lamborghini Aventador;7
 HW007;Porsche 911 GT3;5
@@ -5,14 +7,12 @@ HW010;Mazda RX7;32
 HW022;Honda NSX;1
 HW001;Skyline R34 NOVO;0
 HW002;Supra MK4;0
-HW003;Camaro SS;0
 HW004;Mustang Custom;3
 HW008;Nissan GTR R35;3
 HW009;Dodge Charger 1970;0
 HW011;Bugatti Chiron;0
 HW012;McLaren P1;0
 HW013;Koenigsegg Jesko;0
-HW014;Audi R8;0
 HW015;BMW M3 E46;0
 HW016;Tesla Model S;0
 HW017;Ford GT;0
