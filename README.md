@@ -117,3 +117,8 @@ Comparação: número de verificações realizadas durante a execução da busca
 * Dados são salvos ao encerrar o programa
 * Todas as operações são case-insensitive
 * Move-to-Front reordena a lista, não a hash table
+
+### Vídeo do trabalho
+
+
+[Clique aqui para assistir à demonstração](https://youtu.be/FUskpwCpEg8)
